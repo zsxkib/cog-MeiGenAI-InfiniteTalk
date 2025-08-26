@@ -187,3 +187,9 @@ cython_debug/
 *.avi
 *.mkv
 *.flv
+# Local artifacts
+weights/
+save_audio/
+.gradio/
+*.backup
+fix_attention.py

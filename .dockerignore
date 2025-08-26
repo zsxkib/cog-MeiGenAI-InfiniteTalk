@@ -32,3 +32,5 @@ __pycache__
 *.avi
 *.mkv
 *.flv
+# Ignore local weights
+weights/
